@@ -22,6 +22,6 @@
 
 
 Here are some screenshots
-![](screenshot/screen-capture.gif)
+
 
 
